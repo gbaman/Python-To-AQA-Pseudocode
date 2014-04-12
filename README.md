@@ -22,3 +22,9 @@ Modify test.py to the full path of your python file you want to convert.
 Then run python-psudocoder.py
 To run, you can hit run in IDLE or you can open a terminal, cd to the directory and run
 ```python python-psudocoder.py```
+
+Example
+-------
+
+This is the file i use to test with http://pastebin.com/37kT9phS
+This is it after running it through the converter pythontest-main-Psudocode.py
