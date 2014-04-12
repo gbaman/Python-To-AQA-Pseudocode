@@ -27,4 +27,4 @@ Example
 -------
 
 This is the file i use to test with http://pastebin.com/37kT9phS
-This is it after running it through the converter pythontest-main-Psudocode.py
+This is it after running it through the converter http://pastebin.com/FvcuPGW4
